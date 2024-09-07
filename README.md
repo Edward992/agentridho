@@ -1,6 +1,6 @@
 # AGENTS 301 BOT AUTO CLAIM
 
-## TUTORIAL PEMAKAIAN | LINK BOT: [AGENTS BOT TELE](https://t.me/Agent301Bot/app?startapp=onetime1219868821)
+## TUTORIAL PEMAKAIAN | LINK BOT: [AGENTS BOT TELE](https://t.me/Agent301Bot/app?startapp=onetime1001671674)
 
 ### Cara Penggunaan:
 1. **Paste Query**: 
